@@ -1,4 +1,4 @@
-Executing "Analyzing DDoS Attacks using Machine Learning Techniques"
+Executing "Detecting DDoS Attacks using Machine Learning Techniques"
 
 
 Step 1 - Download the dataset from "https://www.unb.ca/cic/datasets/ddos-2019.html". The dataset contains a list of csv files.
